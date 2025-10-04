@@ -312,9 +312,10 @@ class hotelReservationSystem {
     // execution gate
 
     public static void main(String [] args){
-        System.out.println("=== Welcome to roshans Hotel ===");
+        System.out.println("=== Welcome to Krishna's Hotel ===");
         hotelReservationSystem hotelBookings = new hotelReservationSystem();
         hotelBookings.mainRunMethod();
     }
 
 }
+
